@@ -10,3 +10,7 @@
 
 ## Our paper: 
 - https://www.overleaf.com/5792449574grsgjxdvsbfw
+
+## Is this semester loss? 
+
+![](figs/is_this_loss.jpg)
