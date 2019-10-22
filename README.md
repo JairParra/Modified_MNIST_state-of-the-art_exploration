@@ -4,7 +4,7 @@
 [![Generic badge](https://img.shields.io/badge/Neat_level-OVER_9000-green.svg)](https://shields.io/)
 
 # Mini-Project 3: MiniProject 3: Modified MNIST
-- **Goal**: Detect numerically largest digit in the image. 
+- **Goal**: Detect numerically largest digit in the image: this is an **object detection task**. 
 
 ## Announcements: 
 - Our group on MyCourses is **Group 9**, please join ASAP 
