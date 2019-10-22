@@ -13,6 +13,8 @@
 - If we collect sources along the way, please make sure you write document them down in the **literature** folder.
 - As possible, we will try to work using **branching**. We wil upload some initial scripts that are more or less complete to the **master** branch, but whenever other changes are to be made, please initialize a **pull request**. We will then discuss when meging the code and/or branches. 
 - When a task is done, please put **done** next to it, but please don't delete the whole task until 2 days later so we can all know how progress is going. 
+- We can all mess around with code on our own computers, however since we will be trianing Neural Nets, we will be using **Google Colab**. (Jair) I will upload a link to a tutorial on it soon. 
+
 ## Tasks: 
 
 ## All 
