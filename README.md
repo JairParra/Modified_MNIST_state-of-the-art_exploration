@@ -4,9 +4,9 @@
 [![Generic badge](https://img.shields.io/badge/Neat_level-OVER_9000-green.svg)](https://shields.io/)
 
 # Mini-Project 3: MiniProject 3: Modified MNIST
+- **Goal**: Detect numerically largest digit in the image. 
 
 ## Announcements: 
-- Mini-project 3 has started 
 - Our group on MyCourses is **Group 9**, please join ASAP 
 - Once the above is done, please join the Kaggle competition on **Group 9**
 - Wil start uploading raw data soon to the repo. 
