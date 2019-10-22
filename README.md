@@ -6,6 +6,9 @@
 # Mini-Project 3: MiniProject 3: Modified MNIST
 - **Goal**: Detect numerically largest digit in the image: this is an **object detection task**. 
 
+## Our paper: 
+- https://www.overleaf.com/5792449574grsgjxdvsbfw
+
 ## Announcements: 
 - Our group on MyCourses is **Group 9**, please join ASAP 
 - Once the above is done, please join the Kaggle competition on **Group 9**
@@ -34,6 +37,4 @@
 - Join group 9 on MyCourses
 - Join group 9 on Kaggle
 
-## Our paper: 
-- https://www.overleaf.com/5792449574grsgjxdvsbfw
 
