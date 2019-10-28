@@ -33,12 +33,19 @@
 - Join group 9 on MyCourses
 - Join group 9 on Kaggle
 - Start reading the tutorials on tensorflow or pytorch
+- Learn how to use Google's Colab
+- Figure out how to read the competition data, display the images, understand what their shape, and normalize
 
 ## Logan
 - Read all repo's README's
 - Join group 9 on MyCourses
 - Join group 9 on Kaggle
 - Start readint tutorials on tensorflow or pytorch  
+- Learn how to use Google's Colab
+- Figure out how to read the competition data, display the images, understand what their shape, and normalize
+
+
+
 
 
 
