@@ -23,18 +23,22 @@
 ## All 
 - Read MiniProject 3 description carefully 
 - Please go through each of the folders of the repo and read the respective README. 
+- **Check this out**: https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent **Need to meet to talk about this**
 
 ### Jair: 
-- Finish repo initialization and upload raw data 
+- Try the tensorflow model but with an LSTM architecture 
 
 ## Tommy: 
 - Read all repo's README's
 - Join group 9 on MyCourses
 - Join group 9 on Kaggle
+- Start reading the tutorials on tensorflow or pytorch
 
 ## Logan
 - Read all repo's README's
 - Join group 9 on MyCourses
 - Join group 9 on Kaggle
+- Start readint tutorials on tensorflow or pytorch  
+
 
 
