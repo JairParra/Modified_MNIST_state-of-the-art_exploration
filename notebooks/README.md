@@ -7,4 +7,5 @@
 
 ## References: 
 - script **resnet_utils.py** was taken from https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33
+- https://www.tensorflow.org/tutorials/images/transfer_learning
 
