@@ -26,7 +26,9 @@
 - **Check this out**: https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent **Need to meet to talk about this**
 
 ### Jair: 
-- Try the tensorflow model but with an LSTM architecture 
+- Upload the last notebook as well as metrics visualizations. 
+- Prepare Saturday's meeting. 
+- Update predictions on Kaggle. 
 
 ## Tommy: 
 - Read all repo's README's
