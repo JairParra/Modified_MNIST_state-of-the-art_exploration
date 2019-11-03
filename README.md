@@ -66,9 +66,18 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 
 ![](figs/metrics_Modified_MNIST_keras_resnet_14plus2epochs_dropout0.6_acc9700.png)
 
+- Resnet residual learning building block: 
+
+![](Residual_learning_building_block.jpg)
+
 - Model architecture: 
 
 ![](figs/Left-ResNet50-architecture-Blocks-with-dotted-line-represents-modules-that-might-be.png)
+
+- References: 
+  - **Deep Residual Learning for Image Recognition** https://arxiv.org/pdf/1512.03385.pdf
+  - **Identity Mappings in Deep Residual Networks** https://arxiv.org/pdf/1603.05027.pdf
+  
 
 
 
