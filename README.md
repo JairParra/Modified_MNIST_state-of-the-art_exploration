@@ -68,7 +68,7 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 
 - Resnet residual learning building block: 
 
-![](Residual_learning_building_block.jpg)
+![](figs/Residual_learning_building_block.jpg)
 
 - Model architecture: 
 
