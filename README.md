@@ -48,9 +48,10 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 - Read all repo's README's
 
 
-## Best Performing model so far: Resnet50V2, no pre-trained parameters, 14+2 epochs, Dropout 0.6, val_acc = 0.9700, Kaggle acc: 0.96766
+## Best Performing model so far: 
+- **Resnet50V2, no pre-trained parameters, 14+2 epochs, Dropout 0.6, val_acc = 0.9700, Kaggle acc: 0.96766**
 
-![](figs/Modified_MNIST_keras_resnet_14plus2epochs_dropout0.6_acc9700.png)
+![](figs/metrics_Modified_MNIST_keras_resnet_14plus2epochs_dropout0.6_acc9700.png)
 
 ![](figs/Left-ResNet50-architecture-Blocks-with-dotted-line-represents-modules-that-might-be.png)
 
