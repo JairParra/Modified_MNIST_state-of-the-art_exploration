@@ -57,6 +57,8 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 
 ## Logan
 - Read all repo's README's
+- Implement ,test and hypertune model X **with** pre-trained parameters (1 colour channel) 
+- Implement ,test and hypertune model X **without** pre-trained parameters(3 colour channels)
 
 
 ## Best Performing model so far: 
