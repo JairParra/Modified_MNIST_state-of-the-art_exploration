@@ -13,39 +13,46 @@
 - Our group on MyCourses is **Group 9**, please join ASAP 
 - Once the above is done, please join the Kaggle competition on **Group 9**
 - If we collect sources along the way, please make sure you write document them down in the **literature** folder.
-- As possible, we will try to work using **branching**. We wil upload some initial scripts that are more or less complete to the **master** branch, but whenever other changes are to be made, please initialize a **pull request**. We will then discuss when meging the code and/or branches. 
+- As possible,use **branching** whenever
 - When a task is done, please put **done** next to it, but please don't delete the whole task until 2 days later so we can all know how progress is going. 
-- We can all mess around with code on our own computers, however since we will be trianing Neural Nets, we will be using **Google Colab**. 
-- **Meeting tomorrow 4pm **
+- We will use **Google Colab** to train our models. Notw you can have two notebooks open at the same time. 
 
 ## Tasks: 
 
 ## All 
-- Read MiniProject 3 description carefully 
 - Please go through each of the folders of the repo and read the respective README. 
-- **Check this out**: https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent **Need to meet to talk about this**
+- *Transfer learning tutorial:* https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent 
+- Notebook example for training a model **without** pre-trained parameters (1 colour channel) :
+
+https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
+
+- Notebook example for training a model **with** pre-trained parameters (3 colour channels adjustment)
+
+https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k 
+
+- *Keras Applications* where you can find all the models to try: 
+
+https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
+
 
 ### Jair: 
-- Upload the last notebook as well as metrics visualizations. 
-- Prepare Saturday's meeting. 
-- Update predictions on Kaggle. 
+- Implement Resnet50V2 with pre-trained parameters. 
+- Start writing the project report. 
 
 ## Tommy: 
 - Read all repo's README's
-- Join group 9 on MyCourses
-- Join group 9 on Kaggle
-- Start reading the tutorials on tensorflow or pytorch
-- Learn how to use Google's Colab
-- Figure out how to read the competition data, display the images, understand what their shape, and normalize
+- Implement **with** pre-trained parameters (1 colour channel) 
+- Implement **without**
 
 ## Logan
 - Read all repo's README's
-- Join group 9 on MyCourses
-- Join group 9 on Kaggle
-- Start readint tutorials on tensorflow or pytorch  
-- Learn how to use Google's Colab
-- Figure out how to read the competition data, display the images, understand what their shape, and normalize
 
+
+## Best Performing model so far: Resnet50V2, no pre-trained parameters, 14+2 epochs, Dropout 0.6, val_acc = 0.9700, Kaggle acc: 0.96766
+
+![](figs/Modified_MNIST_keras_resnet_14plus2epochs_dropout0.6_acc9700.png)
+
+![](figs/Left-ResNet50-architecture-Blocks-with-dotted-line-represents-modules-that-might-be.png)
 
 
 
