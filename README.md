@@ -4,7 +4,9 @@
 [![Generic badge](https://img.shields.io/badge/Neat_level-OVER_9000-green.svg)](https://shields.io/)
 
 # Mini-Project 3: MiniProject 3: Modified MNIST
-- **Goal**: Detect numerically largest digit in the image: this is an **object detection task**. 
+- **Goal**: Detect numerically largest digit in the image.  
+
+![](figs/modified_MNIST_challenge.png)
 
 ## Our paper: 
 - https://www.overleaf.com/5792449574grsgjxdvsbfw
@@ -16,6 +18,15 @@
 - As possible,use **branching** whenever
 - When a task is done, please put **done** next to it, but please don't delete the whole task until 2 days later so we can all know how progress is going. 
 - We will use **Google Colab** to train our models. Notw you can have two notebooks open at the same time. 
+- **Models to try**: 
+  - Xception 
+  - VGG16 
+  - InceptionV3
+  - InceptionResNetV2	 
+  - MobileNetV2
+  - DenseNet201
+  - NASNetLarge
+  - ResNet152V2
 
 ## Tasks: 
 
@@ -41,8 +52,8 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 
 ## Tommy: 
 - Read all repo's README's
-- Implement **with** pre-trained parameters (1 colour channel) 
-- Implement **without**
+- Implement ,test and hypertune model X **with** pre-trained parameters (1 colour channel) 
+- Implement ,test and hypertune model X **without** pre-trained parameters(3 colour channels)
 
 ## Logan
 - Read all repo's README's
