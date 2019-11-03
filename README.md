@@ -66,6 +66,8 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 
 ![](figs/metrics_Modified_MNIST_keras_resnet_14plus2epochs_dropout0.6_acc9700.png)
 
+- Model architecture: 
+
 ![](figs/Left-ResNet50-architecture-Blocks-with-dotted-line-represents-modules-that-might-be.png)
 
 
