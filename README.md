@@ -23,7 +23,6 @@
   - VGG16 
   - InceptionV3
   - InceptionResNetV2	 
-  - MobileNetV2
   - DenseNet201
   - NASNetLarge
   - ResNet152V2
