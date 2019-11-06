@@ -41,7 +41,7 @@ https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
 
 - Notebook example for training a model **with** pre-trained parameters (3 colour channels adjustment)
 
-https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k 
+https://colab.research.google.com/drive/1nV5ZGVctQAwl6kF-pSioHzn-m3AlzAsn
 
 - *Keras Applications* where you can find all the models to try: 
 
