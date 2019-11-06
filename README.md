@@ -51,6 +51,7 @@ https://colab.research.google.com/drive/1VTlc6qD0zXHD8g_eOK9_Dy-chfECZC8k
 ### Jair: 
 - Implement Resnet50V2 with pre-trained parameters. 
 - Start writing the project report. 
+- Finish writing bibliography citations 
 
 ## Tommy: 
 - Read all repo's README's
