@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/COMP551-Applied_Machine_Learning-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Neat_level-OVER_9000-green.svg)](https://shields.io/)
 
-# Mini-Project 3: MiniProject 3: Modified MNIST
+# COMP 551 Mini-Project 3: Modified MNIST, State-of-the-art exploration
 - **Goal**: Detect numerically largest digit in the image.  
 
 ![](figs/modified_MNIST_challenge.png)
