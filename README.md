@@ -31,7 +31,10 @@
 
 ## All 
 - Please go through each of the folders of the repo and read the respective README. 
-- *Transfer learning tutorial:* https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent 
+- *Transfer learning tutorial:
+
+* https://tfhub.dev/s?module-type=image-augmentation,image-classification,image-others,image-style-transfer,image-rnn-agent 
+
 - Notebook example for training a model **without** pre-trained parameters (1 colour channel) :
 
 https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
