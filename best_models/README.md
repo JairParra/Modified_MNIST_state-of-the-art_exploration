@@ -9,5 +9,5 @@
 - **InceptionResnetv2** https://colab.research.google.com/drive/1Q_lEamnMK_tRo7WigI3xguW4g5kqfwCI
 - **Resenet50v2** https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
 - **Resenet151v2**  https://colab.research.google.com/drive/1uUwCHt4dWwn_BB1J5shQ7l-d9lr_4fni
-- **Densenet** 
-- **NASNetLarge**
+- **Densenet** https://colab.research.google.com/drive/1BY1Vr6nhnIx1WQI5nVNz374WugsPLR-r
+- **NASNetLarge** https://colab.research.google.com/drive/1OJb2Q-KEeS9T_2xebmJWdQEF7gQvAw4X
