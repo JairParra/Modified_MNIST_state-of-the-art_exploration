@@ -1,5 +1,5 @@
 # data_raw 
-- raw data without pre-processing, as is, is stored here. 
+- The original data can be obtained from https://www.kaggle.com/c/modified-mnist/data
 
 ## File Description (from Kaggle)
 - train_max_x - Contains the training set images. 
