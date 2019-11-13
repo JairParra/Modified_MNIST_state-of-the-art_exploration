@@ -3,14 +3,14 @@
 [![Generic badge](https://img.shields.io/badge/COMP551-Applied_Machine_Learning-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Neat_level-OVER_9000-green.svg)](https://shields.io/)
 
-# COMP 551 Mini-Project 3: Modified MNIST, State-of-the-art exploration
+# Modified MNIST, State-of-the-art exploration
 
 Nothing is better suited for the task of image classification than the usage of neural network architectures that involve CNNs. The 2D-topological nature of pixels and high-dimensionality in images  (i.e. (height,weight,colour channels)), make CNNs the most suitable and popular choice to build architectures~\cite{lec_15}. In this case, rather than the classical MNIST dataset, we had the opportunity to work with the Modified MNIST dataset, in which each image had three randomly placed handwritten digits, and the goal was to identify the biggest one. Placing our foundations on the idea of transfer learning, we built on state-of-the art models such as ResnetV2 , VGG, Xception and InceptionV3, which we trained on the freely available Google Colab's Tesla K80 GPU\cite{colabGPU}. In the end, we quickly realized that trained by training the whole network architectures from scratch yielded the best results. Hyperparameter tuning  was a crucial part of the process, as we could observe how final accuracy, variability and convergence speed significantly changes based on different hyperparameter choices. In particular, a Dropout rate of 0.6 was the most adequate in our case. Perhaps not surprisingly, the usage of these architectures were able to learn significant feature parameters and performed quite well on such modified dataset. In the end, among the multiple models we tried, the Xception model yielded a local validation accuracy of **97.60%** as well as a test accuracy of **97.83%** on the Kaggle Competition, trained with Dropout=0.6 on 14 initial epochs with a batch size of 32, followed by two additional "boosting" epochs with increased batch sizes of 128 and 256, respectively. 
 
 ![](figs/modified_MNIST_challenge.png)
 
 ## Our paper: 
-- https://www.overleaf.com/5792449574grsgjxdvsbfw
+- https://drive.google.com/file/d/1U83h-mp98gqcPfC3Ixjb2D_T7xa-Og0r/view?usp=sharing
 
 ## Reproducibility 
 
