@@ -5,7 +5,7 @@
 ## Colab links: 
 - **VGG16:** https://colab.research.google.com/drive/1GEQq4Nt5vwLa_bbnINvGAlcYXpSK_lTu
 - **Xception:** https://colab.research.google.com/drive/15nqNJPDeNn21UOdF0AVtOTNdfjDVOxIv 
-- **Inceptionv3** 
+- **Inceptionv3** https://colab.research.google.com/drive/1Byo_uHZMlVXOF6yPT2mFc1ZdHjFyhgUK#scrollTo=0DznuG2v4nKt
 - **InceptionResnetv2** https://colab.research.google.com/drive/1Q_lEamnMK_tRo7WigI3xguW4g5kqfwCI
 - **Resenet50v2** https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
 - **Resenet151v2**  https://colab.research.google.com/drive/1uUwCHt4dWwn_BB1J5shQ7l-d9lr_4fni
