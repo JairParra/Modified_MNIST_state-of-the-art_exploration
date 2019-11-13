@@ -10,3 +10,4 @@
 - **Resenet50v2** https://colab.research.google.com/drive/1EYHRqa4ycRHq6wYMmf4s_JU9qlfFiKNM
 - **Resenet151v2**  https://colab.research.google.com/drive/1uUwCHt4dWwn_BB1J5shQ7l-d9lr_4fni
 - **Densenet** 
+- **NASNetLarge**
