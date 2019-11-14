@@ -14,7 +14,12 @@ Nothing is better suited for the task of image classification than the usage of 
 
 ## Reproducibility 
 
-- With some basic effort, our models should be easily reproducible with the help of Google Colab. For this purpose, we suggest you upload the training datasets first to the Google drive and then link it. 
+- With some basic effort, our models should be easily reproducible with the help of Google Colab. For this purpose, we suggest you upload the training datasets first to the Google drive and then link it. For instnace, below is the link to the notebook with which you can follow our steps the Modified MNIST classification challenge using the **Xception** model: 
+
+https://colab.research.google.com/drive/15nqNJPDeNn21UOdF0AVtOTNdfjDVOxIv 
+
+- **Note:** The training an testing images dataset, as well as the training labels all together can be obtained from https://www.kaggle.com/c/modified-mnist/data 
+- Similar notebooks are can be found under the *best_models* directory. 
 
 
 ## Models
